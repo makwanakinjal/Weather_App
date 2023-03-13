@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WheatherApp</string>
+
+    <color name="day_color">#c33222</color>
+    <color name="night_color">#2d97fd</color>
+</resources>
